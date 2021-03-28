@@ -1,8 +1,5 @@
-ipywidgets.interact
-ipywidgets.interactive
-ipywidgets.fixed
-ipywidgets.interact_manual
+ipywidgets
 math
 pandas
 seaborn
-matplotlib.pyplot
+matplotlib
