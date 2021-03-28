@@ -2,4 +2,3 @@ ipywidgets
 pandas
 seaborn
 matplotlib
-math
