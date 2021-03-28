@@ -1,5 +1,5 @@
 ipywidgets
-math
 pandas
 seaborn
 matplotlib
+math
