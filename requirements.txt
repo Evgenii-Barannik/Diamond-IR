@@ -2,4 +2,4 @@ ipywidgets
 pandas
 seaborn
 matplotlib
-voila==0.2.12
+voila
